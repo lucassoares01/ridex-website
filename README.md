@@ -34,7 +34,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 ## 🚀 Como testar ?
-Live Website -> ridexweb.vercel.app
+Live Website -> https://ridexweb.vercel.app
 
 ou
 
