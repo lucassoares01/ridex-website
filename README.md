@@ -1,5 +1,5 @@
 <h1 align="center">
-    React Notes
+    Ridex
 </h1>
 
 <h4 align="center"> 
@@ -15,15 +15,12 @@
 </div>
 
 ---
-<br>
 
 ## 💻 Sobre o projeto
 
  🚗 Ridex - É um website de uma empresa de aluguel de carros.
 
-<br>
 ---
-<br>
 
 ## 🛠 Tecnologias
 
@@ -33,17 +30,16 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[Styled-Components](https://github.com/styled-components)**
 -   **[Javascript](https://github.com/topics/javascript)**
 
-<br>
-
 ---
-<br>
+
+
 ## 🚀 Como testar ?
-Live Website -> https://restauranteforno.netlify.app
+Live Website -> ridexweb.vercel.app
 
 ou
 
 Você pode clonar o projeto com o seguinte comando:
 
 ```
-git clone https://github.com/lucassoares01/forno-website.git
+git clone https://github.com/lucassoares01/ridex-website
 ```
